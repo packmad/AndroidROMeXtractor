@@ -1,0 +1,4 @@
+# The files in this directory are needed for the project but are too big for version control.
+# Put the needed files here manually (from https://www.dropbox.com/s/t6xkxgieepox73r/FlashTool.7z).
+*
+!.gitignore
