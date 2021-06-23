@@ -1,6 +1,6 @@
-[submodule "arx/extract_android_ota_payload"]
-	path = arx/extract_android_ota_payload
-	url = https://github.com/cyxx/extract_android_ota_payload.git
 [submodule "arx/kdztools"]
 	path = arx/kdztools
 	url = https://github.com/ehem/kdztools.git
+[submodule "arx/extract_android_ota_payload"]
+	path = arx/extract_android_ota_payload
+	url = https://github.com/cyxx/extract_android_ota_payload.git
