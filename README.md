@@ -36,4 +36,4 @@ for f in <absolute/path/>*; do ./docker_local_rom.sh $f >> log.txt ; done
 We share this tool for reproducibility of our experiments.
 However, this software is a prototype that grew out of control during development as we encountered new formats and the quality of the code has definitely been affected.
 
-Therefore, but any contributions are welcome: just send a PR!
+Therefore, any contributions are welcome: just send a PR!
